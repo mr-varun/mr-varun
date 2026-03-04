@@ -236,6 +236,8 @@ Build Scalable SaaS Products
 
 <div align="center">
   <h2>📚 FEATURED PROJECTS 📚</h2>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 </div>
 
 <table align="center" width="90%">
@@ -378,7 +380,11 @@ Build Scalable SaaS Products
 </div>
 
 <div align="center">
-  <p><strong>📈 Contribution Activity:</strong> Consistent development across multiple repositories with focus on backend systems, automation tools, and SaaS platforms. <a href="https://github.com/mr-varun">View my GitHub profile</a> for live contribution data and recent activity.</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-varun&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=667EEA&line=667EEA&point=FFFFFF" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
 </div>
 
 <br>
