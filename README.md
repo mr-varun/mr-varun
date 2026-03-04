@@ -12,9 +12,6 @@
     <a href="https://github.com/mr-varun">
       <img src="https://github.com/mr-varun.png" alt="Varun Hosakoti" width="260" style="border-radius: 50%; border: 4px solid #667EEA; box-shadow: 0 0 50px #667EEA, 0 0 100px #4FACFE; transition: transform 0.3s ease; z-index: 10; position: relative;" />
     </a>
-    <!-- ORBITING ANIMATION -->
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300" style="position: absolute; top: -20px; left: -20px; z-index: 1; filter: hue-rotate(45deg);"/>
-    <div style="position: absolute; bottom: 0; right: 0; z-index: 20; font-size: 50px;">🤖</div>
   </div>
 
   <!-- SOCIAL BADGES WITH ANIMATION -->
