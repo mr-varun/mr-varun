@@ -17,7 +17,7 @@
   <!-- SOCIAL BADGES WITH ANIMATION -->
   <p>
     <a href="https://github.com/mr-varun?tab=followers">
-      <img src="https://img.shields.io/github/followers/mr-varun?style=for-the-badge&logo=github&logoColor=white&color=6D5AE6&labelColor=0A0C10&label=FOLLOWERS&cacheSeconds=3600" alt="GitHub followers" />
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=6D5AE6&labelColor=0A0C10&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmr-varun&cacheSeconds=3600" alt="GitHub followers" />
     </a>
     <a href="https://github.com/mr-varun">
       <img src="https://img.shields.io/github/stars/mr-varun?style=for-the-badge&logo=github&logoColor=white&color=6D5AE6&labelColor=0A0C10&label=STARS" alt="GitHub stars" />
