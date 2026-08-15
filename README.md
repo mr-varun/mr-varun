@@ -138,8 +138,8 @@ A toolkit of scripts that kill repetitive workflows — scraping, processing, an
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-varun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6D5AE6&icon_color=4FACFE&text_color=c9d1d9&ring_color=6D5AE6&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-varun&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D5AE6&text_color=c9d1d9&langs_count=8" width="30%" />
+<img src="https://gh-readme-stats.vercel.app/api?username=mr-varun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6D5AE6&icon_color=4FACFE&text_color=c9d1d9&ring_color=6D5AE6" width="49%" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mr-varun&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D5AE6&text_color=c9d1d9&langs_count=8" width="30%" />
 </div>
 
 <div align="center">
@@ -147,7 +147,7 @@ A toolkit of scripts that kill repetitive workflows — scraping, processing, an
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mr-varun&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="90%" />
+<img src="https://github-trophies.vercel.app/?username=mr-varun&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="90%" />
 </div>
 
 <div align="center">
